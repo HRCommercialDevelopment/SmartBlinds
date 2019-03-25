@@ -1,0 +1,11 @@
+{  
+   "settings":[  
+      {  
+         "name":"App Version"
+      },
+      {  
+         "name":"Privacy Policy",
+         "link":"https://raw.githubusercontent.com/HRCommercialDevelopment/SmartBlinds/master/privacy.txt"
+      }
+   ]
+}
